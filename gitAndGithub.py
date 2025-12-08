@@ -13,4 +13,8 @@ git version 2.43.0
 git config --global user.name "Collo1234187"
 git config --global user.email "Collinstoneochieng@gmail.com"
 git config --global --list
+git init .
+git add .
+git commit -m "my first commit"
+
 '''
